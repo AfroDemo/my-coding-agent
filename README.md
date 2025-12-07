@@ -1,3 +1,5 @@
+![CI](https://github.com/AfroDemo/my-coding-agent/actions/workflows/python-ci.yml/badge.svg)
+
 # 🤖 Coding Agent - AI-Powered Development Assistant
 
 An open-source coding agent that helps developers with various coding tasks using free AI APIs. This project leverages AI agents to assist with file management, code generation, and development tasks.
